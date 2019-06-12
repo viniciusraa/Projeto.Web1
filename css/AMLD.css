@@ -1,0 +1,147 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+	background-color:#F2F2F2;
+	letter-spacing:0.030cm;
+	line-height:0.60cm;
+	font-size:1.1rem;
+	margin: 0 auto;
+}
+nav {
+	display:flex;
+	background-color:#FFB366;
+	width:auto;
+	height:80px;
+}
+nav li {
+	margin-left: 70%;
+    margin-right: 23%;
+    margin-top: -5%;
+	list-style:none;
+}
+nav ul {
+	display:flex;
+	margin-left: -13%;
+}
+nav ul li ul {
+	display:table;
+	margin-top: -5%;
+}
+nav ul li ul.AMLD h4.hAMLD {
+	margin-top: 30%;
+	margin-bottom: 32%;
+}
+nav ul li ul.AMLD {
+	margin-top: -12%;
+    width: 88%;
+}
+nav ul li ul div.blockM {
+	height: 2%;
+    width: 0%;
+	visibility:hidden;
+}
+nav ul li ul:hover {
+	background-color:#FFB366;
+}
+nav ul li ul:hover div.blockA {
+	visibility:visible;
+}
+nav ul li ul:hover div.blockM {
+	visibility:visible;
+}
+nav ul li ul div.blockA {
+	height: 2%;
+    width: 0%;
+	visibility:hidden;
+}
+nav a {
+	background-color:#FFB366;
+}
+nav a.maior {
+	
+}
+img.NavLinkImg {
+	height:100%;
+}
+a {
+	text-decoration:none;
+	color:Black;
+}
+a.Links {
+	margin-left:25%;
+	margin-right:13%;
+	margin-top:1.8%;
+}
+div.main {
+	display:flex;
+	margin-top: 5%;
+}
+div.main h2 {
+	margin-left:6%;
+}
+section {
+	display:block;
+	margin-top:4%;
+	margin-left: -6%;
+}
+form {
+	margin-top: 11%;
+    line-height: 300%;
+    margin-left: -31%;
+}
+label {
+	font-weight:bold;
+}
+p {
+	margin-bottom: 3%;
+	text-align:justify;
+}
+li.listaP {
+	line-height: 222%;
+}
+aside {
+	float:right;
+	width:22%;
+	margin-top:2%;
+}
+aside.micos {
+	margin-left: 6%;
+    margin-right: 18%;
+    margin-top: 3%;
+}
+aside.micos img.micosimg {
+	margin-bottom: 15%;
+    width: 127%;
+	border-style: solid;
+}
+aside #mico {
+	margin-bottom: 15%;
+    width: 127%;
+    margin-top: 36%;
+	border-style: solid;
+}
+aside img.premios {
+	width: 86%;
+    margin-top: -11%;
+    margin-bottom: 9%;
+    margin-left: 106%;
+    border-style: double;
+    border-width: 6px;
+}
+
+footer {
+	background-color:#ACCAF0;
+	width:auto;
+	height: 156px;
+	margin-bottom:0px;
+}
+img.LinkImg {
+	height:50px;
+	margin-left: 47%;
+	margin-top: 1%;
+}
+h5.footer {
+	margin-left: 37%;
+}
+a:hover {
+	color:White;
+}

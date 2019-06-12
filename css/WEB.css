@@ -1,0 +1,145 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+	background-color:#cfe0f5;
+	letter-spacing:0.030cm;
+	line-height:0.60cm;
+	font-weight:300;
+	font-size:1.1rem;
+	margin: 0 auto;
+}
+nav {
+	display:flex;
+	background-color:#FFB366;
+	width:auto;
+	height:80px;
+}
+nav li {
+	margin-left: 70%;
+    margin-right: 23%;
+    margin-top: -5%;
+	list-style:none;
+}
+nav ul {
+	display:flex;
+	margin-left: -13%;
+}
+nav ul li ul {
+	display:table;
+	margin-top: -5%;
+}
+nav ul li ul.AMLD h4.hAMLD {
+	margin-top: 30%;
+	margin-bottom: 32%;
+}
+nav ul li ul.AMLD {
+	margin-top: -12%;
+    width: 88%;
+}
+nav ul li ul div.blockM {
+	height: 2%;
+    width: 0%;
+	visibility:hidden;
+}
+nav ul li ul:hover {
+	background-color:#FFB366;
+}
+nav ul li ul:hover div.blockA {
+	visibility:visible;
+}
+nav ul li ul:hover div.blockM {
+	visibility:visible;
+}
+nav ul li ul div.blockA {
+	height: 2%;
+    width: 0%;
+	visibility:hidden;
+}
+nav a {
+	background-color:#FFB366;
+}
+nav a.maior {
+	
+}
+img.NavLinkImg {
+	height:100%;
+}
+a {
+	text-decoration:none;
+	color:Black;
+}
+a.Links {
+	margin-left:25%;
+	margin-right:13%;
+	margin-top:1.8%;
+}
+div.main {
+	display:flex;
+}
+#main {
+	display:block;
+	margin-left:32%;
+    margin-top: 4%;
+}
+h3.titleT {
+	font-family: 'Merriweather', serif;
+	    margin-left: -12%;
+    margin-bottom: 6%;
+}
+table {
+	border-style:solid;
+	border-color:black;
+    height: 241px;
+	margin-bottom: 2%;
+}
+th,td {
+	border-style: double;
+}
+section {
+	display:block;
+	margin-top:4%;
+	margin-left: 5%;
+    margin-right: 8%;
+}
+section ul li {
+	margin-bottom: 2%;
+}
+p {
+	margin-bottom: 3%;
+	text-align:justify;
+	line-height: 170%;
+}
+aside {
+	display:block;
+	float:right;
+}
+aside figure {
+	margin-right: 1%;
+
+	margin-top: 26%;
+}
+aside figure.funções {
+	margin-top: 12%;
+}
+aside figure img {
+	height: 350px;
+}
+figure.down img {
+	margin-left: 26%;
+}
+footer {
+	background-color:#ACCAF0;
+	width:auto;
+	height: 156px;
+	margin-bottom:0px;
+}
+img.LinkImg {
+	height:60px;
+	margin-left: 45%;
+	margin-top: 1%;
+}
+h5.footer {
+	margin-left: 37%;
+}
+a:hover {
+	color:White;
+}
